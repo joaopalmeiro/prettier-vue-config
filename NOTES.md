@@ -1,6 +1,7 @@
 # Notes
 
 - https://github.com/joaopalmeiro/prettier-config
+- `WARN publish "repository.url" was normalized to "git+https://github.com/joaopalmeiro/prettier-vue-config.git"` + `npm pkg fix`
 
 ## Commands
 
