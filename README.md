@@ -2,7 +2,6 @@
 
 My personal Prettier config for Vue/Nuxt projects.
 
-
 - [Source code](https://github.com/joaopalmeiro/prettier-vue-config)
 - [npm package](https://www.npmjs.com/package/@joaopalmeiro/prettier-vue-config)
 - [Licenses](https://licenses.dev/npm/%40joaopalmeiro%2Fprettier-vue-config/0.0.0)

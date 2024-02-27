@@ -2,8 +2,6 @@
 
 - https://github.com/joaopalmeiro/prettier-config
 
-
-
 ## Commands
 
 ```bash
